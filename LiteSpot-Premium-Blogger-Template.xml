@@ -3631,7 +3631,7 @@ body#layout #hidden-widgets{display:none!important}
           <b:section id='litespot-pro-cookie-ify-section' maxwidgets='1' name='Cookie Consent' showaddelement='no'>
             <b:widget id='Text1' locked='true' title='$ok={Accept !} $days={7}' type='Text' version='2' visible='true'>
               <b:widget-settings>
-                <b:widget-setting name='content'><![CDATA[Our website uses cookies to improve your experience. <a href="https://www.imamuddinwp.com/search">Learn more</a>]]></b:widget-setting>
+                <b:widget-setting name='content'><![CDATA[Our website uses cookies to improve your experience. <a href="https://www.imamuddinwp.com/p/cookie-policy.html">Learn more</a>]]></b:widget-setting>
               </b:widget-settings>
               <b:includable id='main'>
           <b:include name='text-content'/>
